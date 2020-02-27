@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.sunupermana.dynamiclink",
+    "sha256_cert_fingerprints":
+    ["18:63:2D:42:4A:06:7B:33:AE:8B:33:A1:E6:F9:CE:4F:67:B8:37:FD:9F:AF:CA:EE:2B:7A:8C:36:52:DC:A4:AE"]
+  }
+}]
